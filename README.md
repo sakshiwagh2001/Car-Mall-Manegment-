@@ -1,1 +1,3 @@
-sample code of car mall managment system  project
+Sample code of car mall managment system  project 
+This project is the part of my internship ...
+in which creating REST API with the JWT Authentication.
